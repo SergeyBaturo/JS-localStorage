@@ -1,0 +1,20 @@
+li {
+  list-style: none;
+  margin-bottom: 10px;
+}
+
+li.throughed {
+  text-decoration: line-through;
+}
+
+li input {
+  margin-right: 15px;
+}
+
+li button {
+  margin-left: 15px;
+}
+
+.main_button_line-through {
+  padding: 10px 20px;
+}
